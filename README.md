@@ -1,2 +1,4 @@
-# MvcMovie
- Movie app from Microsoft's MVC tutorial
+# MVC Movie Application
+## From Microsoft's MVC tutorial
+
+Check out my [portfolio](https://www.ejdevspot.com/)
